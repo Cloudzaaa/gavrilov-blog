@@ -1,13 +1,13 @@
 const siteMetadata = {
-  title: 'Да, это Blog',
-  author: 'Artem Gavrilov',
-  headerTitle: 'Gavrilov Blog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Гаврилов пишет',
+  author: 'Артем Гаврилов',
+  headerTitle: 'Гаврилов пишет',
+  description: 'Пишу, рассуждаю и делюсь полезной информацией',
   language: 'en-us',
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  siteUrl: 'https://some-site.ru',
+  siteRepo: 'https://github.com/Cloudzaaa/gavrilov-blog',
+  siteLogo: '/static/images/avatar.jpg',
+  image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'cloudst1@mail.ru',
   github: 'https://github.com/cloudzaaa',
@@ -15,7 +15,7 @@ const siteMetadata = {
   // facebook: 'https://www.facebook.com/artemcloudz/',
   youtube: 'http://www.youtube.com/channel/UCrr3S0t1PUZWj3LUxFzbcQw?sub_confirmation=1',
   linkedin: 'https://www.linkedin.com/in/artem-gavrilov/',
-  locale: 'en-US',
+  locale: 'ru-RU',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app

@@ -1,12 +1,13 @@
 ---
-name: Artem Gavrilov
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Артем Гаврилов
+avatar: /static/images/avatar.jpg
+occupation: Teamlead at MTS Bank
+company: Ideas booster at IT/Digital/Life
+email: cloudst1@mail.ru
+linkedin: https://www.linkedin.com/in/artem-gavrilov/
+github: https://github.com/cloudzaaa
+twitter: https://www.instagram.com/cloudz.a
+instagram: https://www.instagram.com/cloudz.a
 ---
 
 Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
