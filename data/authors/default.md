@@ -6,7 +6,6 @@ company: Ideas booster at IT/Digital/Life
 email: cloudst1@mail.ru
 linkedin: https://www.linkedin.com/in/artem-gavrilov/
 github: https://github.com/cloudzaaa
-twitter: https://www.instagram.com/cloudz.a
 instagram: https://www.instagram.com/cloudz.a
 ---
 
@@ -18,4 +17,5 @@ instagram: https://www.instagram.com/cloudz.a
 
 Люблю новые технологии, активно развиваюсь во всех направлениях, стараюсь держать баланс в hard и soft skills.
 Мне нравится получать новые экспертизы и делиться своим опытом с другими.
-Моя цель - развивать и строить лучшие IT и Digital проекты.
+
+Моя цель - развивать и строить лучшие IT и Digital проекты!

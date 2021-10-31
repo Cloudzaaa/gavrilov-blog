@@ -11,6 +11,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'cloudst1@mail.ru',
   github: 'https://github.com/cloudzaaa',
+  instagram: 'https://instagram.com/cloudz.a',
   // twitter: 'https://twitter.com/Twitter',
   // facebook: 'https://www.facebook.com/artemcloudz/',
   youtube: 'http://www.youtube.com/channel/UCrr3S0t1PUZWj3LUxFzbcQw?sub_confirmation=1',
