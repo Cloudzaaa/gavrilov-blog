@@ -10,8 +10,12 @@ twitter: https://www.instagram.com/cloudz.a
 instagram: https://www.instagram.com/cloudz.a
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Всем привет!
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Меня зовут Артем Гаврилов, я пишу и рассказываю о технологиях и процессах, об IT-бизнесе и финансах, обо всем том диджитале в который не каждый успевает погрузиться.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+За моими плечами более шести лет коммерческой разработки и поддержки проектов различной сложности.
+
+Люблю новые технологии, активно развиваюсь во всех направлениях, стараюсь держать баланс в hard и soft skills.
+Мне нравится получать новые экспертизы и делиться своим опытом с другими.
+Моя цель - развивать и строить лучшие IT и Digital проекты.
