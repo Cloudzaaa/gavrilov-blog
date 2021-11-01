@@ -73,5 +73,10 @@
     "*.+(js|jsx|ts|tsx|json|css|md|mdx)": [
       "prettier --write"
     ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }

@@ -1,7 +1,4 @@
 module.exports = {
-  extends: [
-    './node_modules/cz-conventional-changelog',
-  ],
   rules: {
     'subject-empty': [2, 'never'],
     'subject-full-stop': [2, 'never', '.'],
