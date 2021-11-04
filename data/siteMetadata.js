@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Рассуждаю и делюсь полезной информацией',
   language: 'en-us',
   siteUrl: 'https://yagavrilov.com',
-  siteRepo: 'https://github.com/Cloudzaaa/gavrilov-blog.git',
+  siteRepo: 'https://github.com/Cloudzaaa/gavrilov-blog',
   siteLogo: '/static/images/avatar.jpg',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
@@ -58,7 +58,7 @@ const siteMetadata = {
       // https://utteranc.es/
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
       issueTerm: 'pathname', // supported options: pathname, url, title
-      label: '', // label (optional): Comment 💬
+      label: 'disuss', // label (optional): Comment 💬
       // theme example: github-light, github-dark, preferred-color-scheme
       // github-dark-orange, icy-dark, dark-blue, photon-dark, boxy-light
       theme: '',
