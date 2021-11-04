@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Рассуждаю и делюсь полезной информацией',
   language: 'en-us',
   siteUrl: 'https://yagavrilov.com',
-  siteRepo: 'https://github.com/Cloudzaaa/gavrilov-blog',
+  siteRepo: 'https://github.com/Cloudzaaa/gavrilov-blog.git',
   siteLogo: '/static/images/avatar.jpg',
   image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
@@ -31,7 +31,7 @@ const siteMetadata = {
   comment: {
     // Select a provider and use the environment variables associated to it
     // https://vercel.com/docs/environment-variables
-    provider: 'giscus', // supported providers: giscus, utterances, disqus
+    provider: 'utterances', // supported providers: giscus, utterances, disqus
     giscusConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://giscus.app/
@@ -57,7 +57,7 @@ const siteMetadata = {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://utteranc.es/
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
-      issueTerm: '', // supported options: pathname, url, title
+      issueTerm: 'pathname', // supported options: pathname, url, title
       label: '', // label (optional): Comment 💬
       // theme example: github-light, github-dark, preferred-color-scheme
       // github-dark-orange, icy-dark, dark-blue, photon-dark, boxy-light
