@@ -1,7 +1,7 @@
 ---
 name: Артем Гаврилов
 avatar: /static/images/avatar.jpg
-occupation: Teamlead at VK Cloud
+occupation: Teamlead, Engineering Manager
 company: Ideas booster at IT/Digital/Life
 email: cloudst1@mail.ru
 linkedin: https://www.linkedin.com/in/artem-gavrilov/
