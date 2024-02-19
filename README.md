@@ -87,7 +87,6 @@ layout: PostLayout
 ---
 ```
 
-
 ### Compose
 
 Run `node ./scripts/compose.js` to bootstrap a new post.
